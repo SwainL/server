@@ -1,7 +1,7 @@
 package database
 
 import (
-	"github.com/gotify/server/model"
+	"github.com/gotify/server/v2/model"
 )
 
 // GetMessageByID returns the messages for the given id or nil.

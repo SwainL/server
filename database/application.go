@@ -1,7 +1,7 @@
 package database
 
 import (
-	"github.com/gotify/server/model"
+	"github.com/gotify/server/v2/model"
 )
 
 // GetApplicationByToken returns the application for the given token or nil.

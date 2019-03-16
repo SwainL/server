@@ -1,4 +1,4 @@
-module github.com/gotify/server
+module github.com/gotify/server/v2
 
 require (
 	cloud.google.com/go v0.35.1 // indirect
